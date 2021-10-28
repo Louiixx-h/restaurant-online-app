@@ -8,3 +8,8 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Restaurant-Online"
 include ':app'
+include ':component-network'
+include ':component-dto'
+include ':utils'
+include ':component-repository'
+include ':component-domain'

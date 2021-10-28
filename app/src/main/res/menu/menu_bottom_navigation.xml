@@ -7,11 +7,6 @@
         app:showAsAction="always"
         android:title="Home" />
     <item
-        android:id="@+id/xSearch"
-        android:icon="@drawable/ic_baseline_search_24"
-        app:showAsAction="always"
-        android:title="Search" />
-    <item
         android:id="@+id/xCart"
         android:icon="@drawable/ic_baseline_shopping_cart_24"
         app:showAsAction="always"
