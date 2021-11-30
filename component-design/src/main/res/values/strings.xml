@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant Online</string>
+    <string name="logo">Logo</string>
+    <string name="comida_em_destaque">Comida em destaque</string>
+</resources>

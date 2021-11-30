@@ -1,5 +1,5 @@
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
     repositories {
         google()
         mavenCentral()
@@ -13,3 +13,11 @@ include ':component-dto'
 include ':utils'
 include ':component-repository'
 include ':component-domain'
+include ':feature-home'
+include ':feature-cart'
+include ':component-design'
+include ':feature-profile'
+include ':feature-food-detail'
+include ':feature-menu'
+include ':component-navigation'
+include ':component-notification'

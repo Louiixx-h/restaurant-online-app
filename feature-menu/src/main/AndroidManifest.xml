@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.restaurant_online.feature_menu">
+    <application
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".presenter.MenuActivity" />
+    </application>
+</manifest>

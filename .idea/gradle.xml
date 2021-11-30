@@ -11,10 +11,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/component-design" />
             <option value="$PROJECT_DIR$/component-domain" />
             <option value="$PROJECT_DIR$/component-dto" />
+            <option value="$PROJECT_DIR$/component-navigation" />
             <option value="$PROJECT_DIR$/component-network" />
+            <option value="$PROJECT_DIR$/component-notification" />
             <option value="$PROJECT_DIR$/component-repository" />
+            <option value="$PROJECT_DIR$/feature-cart" />
+            <option value="$PROJECT_DIR$/feature-food-detail" />
+            <option value="$PROJECT_DIR$/feature-home" />
+            <option value="$PROJECT_DIR$/feature-menu" />
+            <option value="$PROJECT_DIR$/feature-profile" />
             <option value="$PROJECT_DIR$/utils" />
           </set>
         </option>
